@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="AdminEmpleadosDatos/AdminEmpleadosDatos.csproj" />
+  <Project Path="AdminEmpleadosEF/AdminEmpleadosEF.csproj" />
+  <Project Path="AdminEmpleadosEntidades/AdminEmpleadosEntidades.csproj" />
   <Project Path="AdminEmpleadosFront/AdminEmpleadosFront.csproj" />
+  <Project Path="AdminEmpleadosNegocio/AdminEmpleadosNegocio.csproj" />
 </Solution>
